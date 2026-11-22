@@ -104,7 +104,7 @@ The custom CNN is trained using the following configuration:
 | Learning Rate | 0.001 |
 | Momentum | 0.9 |
 | Batch Size | 64 |
-| Training Epochs | 5 (GPU training run) |
+| Training Epochs | 20 (GPU training run) |
 | Hardware Acceleration | CUDA GPU |
 
 The model is trained using GPU acceleration to improve training performance.
